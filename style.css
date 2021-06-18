@@ -27,9 +27,7 @@ section:active{
     pointer-events: none;
     transform:translate(30px,29px)
 }
-.bullet:active{
-    background:url('./asset/shot-main.png')
-}
+
 
 .blood{
     position:absolute;
